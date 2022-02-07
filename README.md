@@ -6,7 +6,9 @@ The purpose of this project was to create an application that would utilize the 
 ## Summary
 Weather and hotel information is provided for random lat/long and in the last project of this challenge, the user inputs their requested temperatures for the trip.  Once the temperatures are selected, the queries are also limited in city selection by these temperature limits.  Once the markers are displayed on the map(as seen below), it is evident that the traveler suggestions will be limited to a few continents, based on the time of year.  A final map (seen below) is shared with the travelers that has the route of a potential vacation outlined within the map. 
 
+
+![C46DBB76-BD0D-4540-9AEB-0FA9248D3F48](https://user-images.githubusercontent.com/96222437/152709213-85eadac6-0664-48b7-95ed-f74f141d4599.jpeg)
+
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/96222437/152709058-d56187ce-fcc8-4ee5-81fb-0c86a4b739e3.png)
 
 
-![C614FB42-034F-4A73-910C-F0A9333D3A96_4_5005_c](https://user-images.githubusercontent.com/96222437/152709159-d4583791-2e3a-4822-a675-91fd8c962554.jpeg)
